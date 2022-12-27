@@ -8,7 +8,8 @@
 ```
 
 A Python script that uses the `nmap` tool and multiprocessing to quickly scan a list of hostnames and retrieve the TLS versions supported by each host.
-Prerequisites
+
+## Prerequisites
 
 - [nmap](https://nmap.org/) must be installed and available in the system path.
 
